@@ -15,5 +15,5 @@ those related to:
 
 Among many others.
 
-On this Github you will find my personal projects that I consider to be of greatest interest as well as those that may be of greater utility. 
+On this Github you will find my personal projects that I consider to be of greatest interest as well as those that may be of greater utility.
 
